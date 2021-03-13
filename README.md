@@ -9,4 +9,3 @@
 - 📫 Puede contactar conmigo a través de mi email: josecortesdev@gmail.com
 - ⚡ También puede visitar mi portafolio: https://josecortesdev.github.io/portafolio/
 
-https://img.shields.io/badge/github/followers/:user?label=Follow
