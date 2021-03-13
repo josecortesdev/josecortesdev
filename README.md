@@ -12,4 +12,4 @@
 
   
   
-  https://img.shields.io/badge/dynamic/yaml?url=?style=for-the-badge&logo=appveyor
+https://img.shields.io/badge/ANGULAR-ANG-red
