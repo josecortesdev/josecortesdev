@@ -1,6 +1,6 @@
 ### Hola 👋
 
-- 🌱 Estoy mejorando mi habilidad para programar utilizando varias tecnologías
+- 🌱 Estoy mejorando mi habilidad para programar 
 
   - **Back-end**: Java / PHP / Spring Boot / JPA / MySQL
   - **Front-end**: JS / jQuery / TS / Angular / Bootstrap / HTML5 / CSS3 / Sass
