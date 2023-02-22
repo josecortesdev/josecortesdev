@@ -1,6 +1,6 @@
 ### Hola 👋
 
-- :adult: Soy un desarrollador web autodidacta con un año de experiencia laboral, acostumbrado a desarrollar aplicaciones con frameworks, API REST, APIs de terceros y       autenticación.
+- :adult: Soy un desarrollador web autodidacta con un año de experiencia laboral, desarrollo aplicaciones con frameworks, API REST, APIs de terceros y       autenticación.
 
 - 🌱 Tecnologías:
 
