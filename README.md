@@ -1,12 +1,12 @@
-### Hola 👋
+### Hello 👋
 
-- :adult: Soy un desarrollador web autodidacta con un año de experiencia laboral, desarrollo aplicaciones con frameworks, API REST, APIs de terceros y       autenticación.
+- :adult: I am a self-taught web developer with two years of work experience
 
 - 🌱 Tecnologías:
 
-  - **Me especializo en**: PHP / Laravel 
-  - **He usado con bastante frecuencia**: Angular / Laravel / MySQL / Bootstrap / GitHub / Git
-  - **He usado alguna vez en proyectos**: Java / Spring Boot / Docker
+  - **I specialize in**: PHP / Laravel / MySQL
+  - **I have used quite frequently**: Angular / Bootstrap / Docker / jQuery
+  - **I have ever used in projects**: Java / Spring Boot
   
-- 📫 Puedes contactar conmigo a través de mi email: josecortesdev@gmail.com
-- ⚡ También puedes visitar mi portafolio: https://josecortesdev.github.io/portafolio/
+- 📫 You can contact me through my email: josecortesdev@gmail.com
+- ⚡ You can also visit my portfolio: https://josecortesdev.github.io/portafolio/
